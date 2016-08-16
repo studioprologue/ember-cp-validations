@@ -120,6 +120,6 @@ export default Ember.Object.extend({
   positive: '{description} must be positive',
   date: '{description} la date n\'est pas valide',
   email: '{description} doit être une adress email valide',
-  phone: '{description} n\'est pas un numéro de téléphone valide,
+  phone: '{description} n\'est pas un numéro de téléphone valide',
   url: '{description} doit être une url valide'
 });
